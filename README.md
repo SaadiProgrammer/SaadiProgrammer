@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python-google-Could-Firbase-Flutter-C++.**
 
-- 🤝 I’m looking for help with **Algorith& Data structure**
+- 🤝 I’m looking for help with **Algorithm& Data structure**
 
 - 💬 Ask me about **Anything if related programing?**
 

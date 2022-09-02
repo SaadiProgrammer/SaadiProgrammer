@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saadi Nice see you here 😍😎</h1>
-<h3 align="center">I,am about passionate Software engineering And teaching.</h3>
+<h1 align="center">Hi 👋, I'm Saadi Nice to see you here 😍😎</h1>
+<h3 align="center">I,am  passionate about Software engineering And teaching.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saadiprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="saadiprogrammer" /> </p>
 

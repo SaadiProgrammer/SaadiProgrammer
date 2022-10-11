@@ -46,13 +46,13 @@ I live in Iraq-Kurdistan.👩 I speak fluent English, fluent Kurdish.<br>
             height="40" /> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img
             src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> </p>
 
-<p><img align="left"
+<!-- <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=saadiprogrammer&show_icons=true&locale=en&layout=compact"
-        alt="saadiprogrammer" /></p>
+        alt="saadiprogrammer" /></p> -->
 
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=saadiprogrammer&show_icons=true&locale=en"
         alt="saadiprogrammer" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadiprogrammer&"
-        alt="saadiprogrammer" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saadiprogrammer&"
+        alt="saadiprogrammer" /></p> -->

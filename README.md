@@ -10,16 +10,10 @@ A few facts about me: 👩‍💻 For 3 years I have been creating cross-platfor
 I live in Iraq-Kurdistan.👩 I speak fluent English, fluent Kurdish.<br>
 
 
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=saadiprogrammer&label=Profile%20views&color=0e75b6&style=flat"
-        alt="saadiprogrammer" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=saadiprogrammer" alt="saadiprogrammer" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sa3diprogrammer" target="blank"><img
-            src="https://img.shields.io/twitter/follow/sa3diprogrammer?logo=twitter&style=for-the-badge"
-            alt="sa3diprogrammer" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

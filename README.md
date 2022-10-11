@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/sa3diprogrammer" target="blank"><img src="https://img.shields.io/twitter/follow/sa3diprogrammer?logo=twitter&style=for-the-badge" alt="sa3diprogrammer" /></a> </p>
 
 
-Hi 👋🏻 I'm Saadi 👩‍💻💙📱 I am a mobile App development expert, 
+Hi 👋🏻 I'm Saadi 👩‍💻💙📱 I am a mobile App development expert<br>
 passionate about quality software & Programming, 
 focused on Flutter-Firbase-Sqlite-Dart-Python, .
 A few facts about me: 👩‍💻 For 2 years I have been creating cross-platform 

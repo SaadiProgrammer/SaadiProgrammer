@@ -5,13 +5,16 @@
 
 <p align="left"> <a href="https://twitter.com/sa3diprogrammer" target="blank"><img src="https://img.shields.io/twitter/follow/sa3diprogrammer?logo=twitter&style=for-the-badge" alt="sa3diprogrammer" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter& Personal App😎.**
 
-- 🌱 I’m currently learning **Python-google-Could-Firbase-Flutter-C++.**
-
-- 🤝 I’m looking for help with **Algorithm& Data structure**
-
-- 💬 Ask me about **Anything if related programing?**
+Hi 👋🏻 I'm Saadi 👩‍💻💙📱 I am a mobile App development expert, 
+passionate about quality software & Programming, 
+focused on Flutter-Firbase-Sqlite-Dart-Python, .
+A few facts about me: 👩‍💻 For 2 years I have been creating cross-platform 
+apps using Java and Flutter. 😍 I am passionate about what I do, 
+and programming is my major hobby.
+💙 I am a Frelnacer Developer Expert in Dart and Flutter. 
+✍🏻 I also have an interest in mobile apps design. 
+I live in Iraq-Kurdistan.👩 I speak fluent English, fluent Kurdish.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

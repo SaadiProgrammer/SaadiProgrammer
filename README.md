@@ -6,15 +6,13 @@
 <p align="left"> <a href="https://twitter.com/sa3diprogrammer" target="blank"><img src="https://img.shields.io/twitter/follow/sa3diprogrammer?logo=twitter&style=for-the-badge" alt="sa3diprogrammer" /></a> </p>
 
 
-Hi 👋🏻 I'm Saadi 👩‍💻💙📱 I am a mobile App development expert<br>
-passionate about quality software & Programming, 
-focused on Flutter-Firbase-Sqlite-Dart-Python, .
-A few facts about me: 👩‍💻 For 2 years I have been creating cross-platform 
-apps using Java and Flutter. 😍 I am passionate about what I do, 
-and programming is my major hobby.
-💙 I am a Frelnacer Developer Expert in Dart and Flutter. 
-✍🏻 I also have an interest in mobile apps design. 
-I live in Iraq-Kurdistan.👩 I speak fluent English, fluent Kurdish.
+Hi 👋🏻 I'm Saadi 👩‍💻💙📱 I am a mobile App development expert.<br>
+passionate about quality software & Programming,focused on Flutter-Firbase-Sqlite-Dart-Python.<br>
+A few facts about me: 👩‍💻 For 3 years I have been creating cross-platform apps using Flutter. <br>
+😍 I am passionate about what I do, and programming is my major hobby.<br>
+💙 I am a Frelnacer Developer Expert in Dart and Flutter. <br>
+✍🏻 I also have an interest in mobile apps design. <br>
+I live in Iraq-Kurdistan.👩 I speak fluent English, fluent Kurdish.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

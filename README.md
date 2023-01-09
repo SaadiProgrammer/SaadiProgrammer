@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hi 👋, I'm Saadi Nice to see you 😍😎</h1>
+<h1 align="center">Hi 👋, I'm Hi 👋, I'm Saadi Nice to see you.</h1>
 <h3 align="center">I,am passionate about quality software & Programming.</h3>
 
 Hi 👋🏻 I'm Saadi 👩‍💻💙📱 I am a mobile App development expert.<br>
@@ -7,7 +7,7 @@ A few facts about me: 👩‍💻 For 3 years I have been creating cross-platfor
 😍 I am passionate about what I do, and programming is my major hobby.<br>
 💙 I am a Freelancer Developer Expert in Dart and Flutter. <br>
 ✍🏻 I also have an interest in mobile apps design. <br>
-I live in Iraq-Kurdistan.👩 I speak fluent English, fluent Kurdish.<br>
+I live in Iraq-Kurdistan.👩‍💻 I speak fluent English, fluent Kurdish.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
